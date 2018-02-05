@@ -1,0 +1,5 @@
+comandos
+
+tsc nomearqivo //compila
+tsc -init //arquivo config
+tsc -w atualiza auto
